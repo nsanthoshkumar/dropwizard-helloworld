@@ -2,7 +2,7 @@ dropwizard-helloworld
 =====================
 The below comment is used to clean the package
 $ mvn clean package
-
+--Auto runner
 $ bin/run.sh 
 
 # How to run the app  forever
