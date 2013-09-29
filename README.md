@@ -4,7 +4,7 @@ The below comment is used to clean the package
 $ mvn clean package
 --Auto runner
 $ bin/run.sh 
-
+--Auto runner 2
 # How to run the app  forever
 $ bin/run-forever.sh
 
