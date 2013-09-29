@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-
+The below comment is used to clean the package
 $ mvn clean package
 
 $ bin/run.sh 
